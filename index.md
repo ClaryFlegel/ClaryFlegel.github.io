@@ -5,11 +5,11 @@ profile_picture:
   alt: website picture
 ---
 
-<p>
-  Hello! 
-  I am Clara. 
-  I'm a PhD student in geometric group theory at Heriot-Watt University in the sunny capital of scotland. 
+
+  # Hi, I'm Clara! 
+  ## I'm a PhD student in geometric group theory at Heriot-Watt University in the sunny capital of scotland. 
   
-</p>
+  
+ 
 
 
