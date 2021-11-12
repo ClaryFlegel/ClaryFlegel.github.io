@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Talks and Conferences
-slug: /whatever
+slug: /talks and conferences
 ---
 
 
