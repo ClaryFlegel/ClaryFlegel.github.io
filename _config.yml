@@ -6,6 +6,7 @@ header:
     - name: Home
       slug: /     # <-- index.md
     - name: Projects  # <-- blog.md
+    - name: Talks and Conferences
     
 footer:
   show_powered_by: false
