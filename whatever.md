@@ -1,7 +1,7 @@
 ---
 layout: whatever
 title: Writings
-slug: /blog
+slug: /whatever
 ---
 
 
