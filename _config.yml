@@ -4,7 +4,7 @@ header:
   pages:
     - name: Home
       slug: /     # <-- index.md
-    - name: Blog  # <-- blog.md
+    - name: Projects  # <-- blog.md
     - name: NonGGT  # <-- whatever.md
     
 footer:
