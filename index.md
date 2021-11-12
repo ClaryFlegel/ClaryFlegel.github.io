@@ -5,8 +5,9 @@ profile_picture:
   alt: website picture
 ---
 
-# Hi, I'm Clara! 
-I'm a PhD student in geometric group theory at Heriot-Watt University in the sunny capital of Scotland. 
+# Clara Flegel
+
+I am a Carnegie PhD scholar at [Heriot-Watt University](https://www.carnegie-trust.org/alumni/page/2/) in the general area of geometric group theory.
 
 
 ## Some other things I do: 
@@ -23,7 +24,7 @@ I am the co-organiser of the [Maths Café Talks](https://mathsgym.hw.ac.uk/past-
 I am also active in the [local committe](https://piscopia.co.uk/heriot-watt-university-committee/) of the Piscopia initiative, which is a UK-wide network of women and non-binary undergraduate/MSc students, PhD students, and researchers in Mathematics and related disciplines. Check out our [Upcoming events](https://piscopia.co.uk/) and [Join our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSc-FZJdwpj408GP1rohoC9z6-fNNv--WCP52_vC6gWIte5-bw/viewform)!
 
   
-  
+
  
 
 
