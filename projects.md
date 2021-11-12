@@ -1,9 +1,10 @@
 ---
 layout: blog
-title:
+title: Projects
 slug: /projects
 ---
 
+Some other things I'm doing.
 
 ## Maths Newsletter: 
 I am the co-founder and editor of the [Heriot-Watt Maths Newsletter](https://mathsgym.hw.ac.uk/maths-cafe/maths-cafe-newsletters/). Check out our [YouTube](https://www.youtube.com/channel/UCWGzrezCGIKW_cfchwxIMEQ)!
