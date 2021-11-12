@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Projectss
+title: Projects
 slug: /projects
 ---
 
