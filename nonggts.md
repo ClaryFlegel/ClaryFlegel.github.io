@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: NonGGT
-slug: /nonggt
+slug: /whatever
 ---
 
 # (Non-Maths) Interests 
