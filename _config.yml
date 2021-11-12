@@ -1,6 +1,6 @@
 remote_theme: eliottvincent/bay
 
-header:
+header: Clara Flegel
   pages:
     - name: Home
       slug: /     # <-- index.md
@@ -8,7 +8,7 @@ header:
     - name: Whatever  # <-- whatever.md
     
 footer:
-  show_powered_by: true
+  show_powered_by: false
   contact:
     - name: Email
       value: crf3@hw.ac.uk
