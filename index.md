@@ -6,7 +6,9 @@ profile_picture:
 ---
 
 <p>
-  Welcome to mysite!
+  Hello! 
+  I am Clara, a PhD student in geometric group theory at Heriot-Watt University in the sunny capital of scotland. 
+  
 </p>
 
 
