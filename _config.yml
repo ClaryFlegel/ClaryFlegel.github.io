@@ -5,7 +5,7 @@ header:
     - name: Home
       slug: /     # <-- index.md
     - name: Projects  # <-- blog.md
-    - name: Whatever  # <-- whatever.md
+    - name: Non GGT  # <-- whatever.md
     
 footer:
   show_powered_by: false
