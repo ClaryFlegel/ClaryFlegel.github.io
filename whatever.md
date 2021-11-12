@@ -5,4 +5,4 @@ slug: /blog
 ---
 
 
-A paper of mine on ![Prohibition in the US](Seminararbeit.pdf)
+A paper of mine on [Prohibition in the US](/Seminararbeit.pdf)
