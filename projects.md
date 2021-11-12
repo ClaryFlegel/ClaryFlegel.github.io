@@ -5,7 +5,7 @@ slug: /projects
 ---
 
 
-# Some (Non-Maths) Interests 
+## Some (Non-Maths) Interests 
 
 Results of a project with the [BBQ-Lab](https://bbqlab.org/) run by [Mahul Malik](https://mehulmalik.com/):
 
