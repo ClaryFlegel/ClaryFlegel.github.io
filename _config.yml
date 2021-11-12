@@ -1,3 +1,2 @@
 remote_theme: eliottvincent/bay
-bundle install
-jekyll serve
+
