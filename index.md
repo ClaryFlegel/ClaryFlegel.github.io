@@ -15,6 +15,7 @@ I am the co-founder and editor of the [Heriot-Watt Maths Newsletter](https://mat
 
 ### Maths Café Talks: 
 I am the co-organiser of the [Maths Café Talks](https://mathsgym.hw.ac.uk/past-maths-cafe-talks/) at Heriot-Watt University. These are a regular series of talks given by invited lecturers on a topic of their research to an undergraduate audience. The aim of these talks is to improve student-lecturer relationships and stimulate interest in further research topics. 
+We are always happy to receive speaker suggestions from Heriot-Watt students. 
 
 
 ### Piscopia initiative: 
