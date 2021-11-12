@@ -1,5 +1,5 @@
 ---
-layout: whatever
+layout: blog
 title: Writings
 slug: /whatever
 ---
