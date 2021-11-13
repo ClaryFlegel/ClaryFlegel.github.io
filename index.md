@@ -5,11 +5,6 @@ profile_picture:
   alt: website picture
 ---
 
-# <span style="color:blue"> Clara Flegel</span>
-*crf3* "at" *hw* "dot" *ac* "dot" *uk*
-
-
-
 
 # About Me
 
