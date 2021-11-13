@@ -2,7 +2,6 @@ remote_theme: eliottvincent/bay
 
 
 header: Clara Flegel
-title: Clara Flegel
   pages:
     - name: Home
       slug: /     # <-- index.md
