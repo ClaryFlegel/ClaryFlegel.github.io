@@ -10,7 +10,7 @@ slug: /projects
 
 ![](laser.png)
 
-Results of a project with the [BBQ-Lab](https://bbqlab.org/) supported by IPaQS Undergraduate Vacation Scholarship:
+Results of a project with the [BBQ-Lab](https://bbqlab.org/) partially supported by IPaQS Undergraduate Vacation Scholarship:
 
 M. Pivoluska, M. Plesch, M. Farkas, N. Ružičková, C. Flegel, N.H. Valencia, W. McCutcheon, M. Malik, E.A. Aguilar, “Semi-Device-Independent Random Number Generation with Flexible Assumptions,” npj Quantum Information 7, 50 (2021), DOI: [10.1038/s41534-021-00387-1](https://www.nature.com/articles/s41534-021-00387-1).
 
