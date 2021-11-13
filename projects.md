@@ -7,11 +7,9 @@ slug: /projects
 
 ## Some (Non-Maths) Interests 
 
-![](laser.png)
 
-<img src="laser.png"
-     alt="setup"
-     style="float: left; margin-right: 10px;" />
+
+<img src="laser.png" alt="setup" width="200"/>
 
 Results of a project with the [BBQ-Lab](https://bbqlab.org/) run by [Mahul Malik](https://mehulmalik.com/):
 
