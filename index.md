@@ -17,13 +17,19 @@ I am a [Carnegie PhD scholar](https://www.carnegie-trust.org/alumni/page/2/) at 
 <table align="center">
     <tr>
       <td><img src="/cover_transparent.png"></td>
-      <td>I am the co-founder and editor of the [Heriot-Watt Maths Newsletter]
+      <td>I am the co-founder and editor of the
           <a href="https://mathsgym.hw.ac.uk/maths-cafe/maths-cafe-newsletters/">
            <div style="height:100%;width:100%">
           Heriot-Watt Maths Newsletter
            </div>
            </a>
-      . Check out our [YouTube](https://www.youtube.com/channel/UCWGzrezCGIKW_cfchwxIMEQ)!</td>
+      . Check out our
+          <a href="https://www.youtube.com/channel/UCWGzrezCGIKW_cfchwxIMEQ">
+           <div style="height:100%;width:100%">
+          YouTube
+           </div>
+          </a>
+      </td>
     </tr>
 </table>
 
