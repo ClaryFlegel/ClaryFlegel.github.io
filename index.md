@@ -24,7 +24,7 @@ We are always happy to receive speaker suggestions from Heriot-Watt students.
 ---
 
 ### Piscopia initiative: 
-I am also active in the [local committe](https://piscopia.co.uk/heriot-watt-university-committee/) of the Piscopia initiative, which is a UK-wide network of women and non-binary undergraduate/MSc students, PhD students, and researchers in Mathematics and related disciplines. Check out our [Upcoming events](https://piscopia.co.uk/) and [Join our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSc-FZJdwpj408GP1rohoC9z6-fNNv--WCP52_vC6gWIte5-bw/viewform)!
+I am also active in the [local committe](https://piscopia.co.uk/heriot-watt-university-committee/) of the Piscopia initiative, which is a UK-wide network of women and non-binary students and researchers in Mathematics and related disciplines. Check out our [Upcoming events](https://piscopia.co.uk/) and [Join our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSc-FZJdwpj408GP1rohoC9z6-fNNv--WCP52_vC6gWIte5-bw/viewform)!
 
 
 
