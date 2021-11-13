@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 
-# About Me
+## About Me
 
 I am a [Carnegie PhD scholar](https://www.carnegie-trust.org/alumni/page/2/) at Heriot-Watt University in Edinburgh. 
 
