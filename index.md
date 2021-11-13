@@ -8,7 +8,6 @@ profile_picture:
 # About Me
 
 I am a [Carnegie PhD scholar](https://www.carnegie-trust.org/alumni/page/2/) at Heriot-Watt University in Edinburgh. 
-I am interested in the general area of geometric group theory under the supervision of [Alexandre Martin](http://www.macs.hw.ac.uk/~am258/index.html).
 
 ---
 
