@@ -12,10 +12,6 @@ profile_picture:
 I am a [Carnegie PhD scholar](https://www.carnegie-trust.org/alumni/page/2/) at Heriot-Watt University in Edinburgh. 
 
 ---
-
-
-### Maths Newsletter: 
-
 <table>
 <tr>
     <td><img src="/cover_transparent.png"  alt="1" width = 70  height = adjust ></td>
@@ -23,6 +19,10 @@ I am a [Carnegie PhD scholar](https://www.carnegie-trust.org/alumni/page/2/) at 
   <td> Value 2 </td>
 </tr>
 </table>
+
+
+
+### Maths Newsletter: 
 
 
 
