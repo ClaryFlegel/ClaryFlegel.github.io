@@ -14,7 +14,7 @@ I am a [Carnegie PhD scholar](https://www.carnegie-trust.org/alumni/page/2/) at 
 ---
 
 ### Maths Newsletter: 
-<table>
+<table style="width: 100%">
     <tr>
       <td><img src="/cover_transparent.png" width=50 height=auto></td>
       <td>I am the co-founder and editor of the <a href="https://mathsgym.hw.ac.uk/maths-cafe/maths-cafe-newsletters/"><div style="height:100%;width:100%">Heriot-Watt Maths Newsletter.</div></a>Check out our<a href="https://www.youtube.com/channel/UCWGzrezCGIKW_cfchwxIMEQ"><div style="height:100%;width:100%">YouTube</div></a></td>
