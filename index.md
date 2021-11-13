@@ -5,6 +5,12 @@ profile_picture:
   alt: website picture
 ---
 
+# <span style="color:blue"> Clara Flegel</span>
+*crf3* "at" *hw* "dot" *ac* "dot" *uk*
+
+
+
+
 # About Me
 
 I am a [Carnegie PhD scholar](https://www.carnegie-trust.org/alumni/page/2/) at Heriot-Watt University in Edinburgh. 
