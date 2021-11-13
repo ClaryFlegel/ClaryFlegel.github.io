@@ -17,7 +17,7 @@ M. Pivoluska, M. Plesch, M. Farkas, N. Ružičková, C. Flegel, N.H. Valencia, W
 </tr>
 </table>
 
-<img src="laser.png" alt="setup" width="200"/>
+![](laser.png)
 
 Results of a project with the [BBQ-Lab](https://bbqlab.org/) run by [Mahul Malik](https://mehulmalik.com/):
 
