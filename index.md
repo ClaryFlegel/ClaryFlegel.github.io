@@ -15,8 +15,8 @@ I am a [Carnegie PhD scholar](https://www.carnegie-trust.org/alumni/page/2/) at 
 <table>
 <tr>
     <td><img src="/cover_transparent.png"  alt="1" width = 70  height = adjust ></td>
-    <td>Value 1</td>
-  <td> Value 2 </td>
+    <td><img src="/cup.png"  alt="1" width = 70  height = adjust ></td>
+  <td><img src="/Piscopia.png"  alt="1" width = 70  height = adjust ></td>
 </tr>
 </table>
 
