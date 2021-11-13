@@ -16,7 +16,14 @@ I am a [Carnegie PhD scholar](https://www.carnegie-trust.org/alumni/page/2/) at 
 
 ### Maths Newsletter: 
 
-<img src="/cover_transparent.png" alt="NL" width="70"/> 
+<table>
+<tr>
+    <td><img src="/cover_transparent.png"  alt="1" width = 70  height = adjust ></td>
+    <td>Value 1</td>
+  <td> Value 2 </td>
+</tr>
+</table>
+
 
 
 I am the co-founder and editor of the [Heriot-Watt Maths Newsletter](https://mathsgym.hw.ac.uk/maths-cafe/maths-cafe-newsletters).
