@@ -9,6 +9,9 @@ header:
     
 footer:
   show_powered_by: false
+  contact:
+    - name: Email 
+      value: crf3 "at" hw "dot" ac "dot" uk
   follow:
     - name: Twitter
       link: https://twitter.com/clary_fary_
