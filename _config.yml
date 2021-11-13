@@ -9,10 +9,6 @@ header:
     
 footer:
   show_powered_by: false
-  contact:
-    - name: Email
-      value: crf3@hw.ac.uk
-      link: mailto:crf3@hw.ac.uk
 
   follow:
     - name: Twitter
