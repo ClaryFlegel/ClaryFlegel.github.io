@@ -13,12 +13,14 @@ I am a [Carnegie PhD scholar](https://www.carnegie-trust.org/alumni/page/2/) at 
 
 ---
 
+
+<img src="/cover_transparent.png" alt="NL" width="70"/> 
 ### Maths Newsletter: 
 
 I am the co-founder and editor of the [Heriot-Watt Maths Newsletter](https://mathsgym.hw.ac.uk/maths-cafe/maths-cafe-newsletters).
 Check out our [YouTube](https://www.youtube.com/channel/UCWGzrezCGIKW_cfchwxIMEQ)!
 
-<img src="/cover_transparent.png" alt="NL" width="200"/>
+
 
 
 ### Maths Café Talks: 
