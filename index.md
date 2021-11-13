@@ -19,9 +19,9 @@ I am a [Carnegie PhD scholar](https://www.carnegie-trust.org/alumni/page/2/) at 
       <td><img src="/cover_transparent.png" width=70 height=auto></td>
       <td>
         I am the co-founder and editor of the 
-        <a> href="https://mathsgym.hw.ac.uk/maths-cafe/maths-cafe-newsletters/" </a> 
+        <a href="https://mathsgym.hw.ac.uk/maths-cafe/maths-cafe-newsletters/"> </a> 
         Heriot-Watt Maths Newsletter. Check out our 
-        <a>href="https://www.youtube.com/channel/UCWGzrezCGIKW_cfchwxIMEQ"</a> 
+        <a href="https://www.youtube.com/channel/UCWGzrezCGIKW_cfchwxIMEQ"> </a> 
       </td>
     </tr>
 </table>
