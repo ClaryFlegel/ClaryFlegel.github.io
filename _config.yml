@@ -14,10 +14,7 @@ footer:
       value: crf3@hw.ac.uk
       link: mailto:crf3@hw.ac.uk
     - name: WeChat
-      value:
-Department of Mathematics
-Heriot-Watt University
-Edinburgh EH14 4AS, UK
+      value: Department of Mathematics, Heriot-Watt University, Edinburgh EH14 4AS, UK
 
   follow:
     - name: Twitter
