@@ -38,9 +38,9 @@ I am also active in the [local committe](https://piscopia.co.uk/heriot-watt-univ
 
 <table>
 <tr>
-    <td><img src="/cover_transparent.png"  alt="1" width = 200  height = adjust ></td>
-    <td><img src="/cup.png"  alt="1" width = 200  height = adjust ></td>
-  <td><img src="/Piscopia.png"  alt="1" width = 200  height = adjust ></td>
+    <td><img src="/cover_transparent.png"  alt="1" width = 180  height = adjust ></td>
+    <td><img src="/cup.png"  alt="1" width = 180  height = adjust ></td>
+  <td><img src="/Piscopia.png"  alt="1" width = 180  height = adjust ></td>
 </tr>
 </table>
 
