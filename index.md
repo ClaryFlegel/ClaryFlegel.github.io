@@ -8,10 +8,10 @@ profile_picture:
 
 ## About Me
 
----
 
 I am a [Carnegie PhD scholar](https://www.carnegie-trust.org/alumni/page/2/) at Heriot-Watt University in Edinburgh. 
 
+---
 
 ### Maths Newsletter: 
 I am the co-founder and editor of the [Heriot-Watt Maths Newsletter](https://mathsgym.hw.ac.uk/maths-cafe/maths-cafe-newsletters/). Check out our [YouTube](https://www.youtube.com/channel/UCWGzrezCGIKW_cfchwxIMEQ)!
