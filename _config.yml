@@ -9,7 +9,6 @@ header:
     
 footer:
   show_powered_by: false
-
   follow:
     - name: Twitter
       link: https://twitter.com/clary_fary_
