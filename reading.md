@@ -1,2 +1,10 @@
-A list of articles: 
+---
+layout: blog
+title: Projects
+slug: /projects
+---
+
+
+
+## A list of articles: 
 
