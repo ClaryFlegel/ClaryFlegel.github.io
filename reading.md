@@ -14,9 +14,9 @@ slug: /reading
 [On Proof and Progress in Mathematics](/proof_thurston-pdf)
 
 
-[Frogs and Birds](/Frogs and Birds.pdf)
+[Frogs and Birds.pdf](/Frogs and Birds.pdf)
 
 
-[The value of struggle](/Value of struggle.pdf)
+[Value of struggle.pdf](/Value of struggle.pdf)
 
 
