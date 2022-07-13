@@ -6,6 +6,8 @@ profile_picture:
 ---
 
 
+## The classic definition of an expert is someone who knows more and more about less and less until they know everything about nothing.
+
 ## About Me
 
 
