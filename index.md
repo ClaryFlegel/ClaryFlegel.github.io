@@ -6,12 +6,15 @@ profile_picture:
 ---
 
 
-## The classic definition of an expert is someone who knows more and more about less and less until they know everything about nothing.
 
 ## About Me
 
 
 I am a [Carnegie PhD scholar](https://www.carnegie-trust.org/alumni/page/2/) at Heriot-Watt University in Edinburgh. 
+
+
+"The classic definition of an expert is someone who knows more and more about less and less until they know everything about nothing." 
+I am aming to know less and less about more and more. 
 
 ---
 
